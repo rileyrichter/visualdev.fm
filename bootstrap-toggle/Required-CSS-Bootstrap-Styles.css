@@ -165,7 +165,7 @@
   .show > .btn-dark.dropdown-toggle:focus {
     box-shadow: 0 0 0 0.2rem rgba(82, 88, 93, 0.5);
   }
-  
+  /*
   .btn-outline-primary.disabled, .btn-outline-primary:disabled {
     color: #007bff;
     background-color: transparent;
@@ -302,6 +302,7 @@
     box-shadow: 0 0 0 0.2rem rgba(52, 58, 64, 0.5);
   }
   
+*/
   .btn-lg, .btn-group-lg > .btn {
     padding: 0.5rem 1rem;
     font-size: 1.25rem;
