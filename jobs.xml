@@ -9,7 +9,7 @@
 <wd:HourlyAmount>0</wd:HourlyAmount>
 <wd:PrimaryJobPostingLocationID>LOCATION-3-642</wd:PrimaryJobPostingLocationID>
 <wd:PrimaryJobPostingLocationName>Darlington</wd:PrimaryJobPostingLocationName>  -- Each job posting has a primary job posting location ie the main location, there are additional locations further down
-<wd:PrimaryJobPostingLocationHierarchy>Yorkshire & Humber</wd:PrimaryJobPostingLocationHierarchy>  -- This is what we use to classify the locations into regions
+<wd:PrimaryJobPostingLocationHierarchy>Yorkshire &amp; Humber</wd:PrimaryJobPostingLocationHierarchy>  -- This is what we use to classify the locations into regions
 <wd:PrimaryJobPostingLocationAddressOne>Morton House</wd:PrimaryJobPostingLocationAddressOne>
 <wd:PrimaryJobPostingLocationAddressTwo>Morton Road</wd:PrimaryJobPostingLocationAddressTwo>
 <wd:PrimaryJobPostingLocationCity>Darlington</wd:PrimaryJobPostingLocationCity>
@@ -17,7 +17,7 @@
 <wd:AdditionalLocations>Rotherham - Thames Street</wd:AdditionalLocations> -- Ignore this, it is to make the grouping work on the report
 <wd:ScheduledWeeklyHours>40</wd:ScheduledWeeklyHours>
 <wd:Company>Mears Limited</wd:Company>
-<wd:CostCenter>288 AASC - North East, Yorks, & Humber</wd:CostCenter>
+<wd:CostCenter>288 AASC - North East, Yorks, &amp; Humber</wd:CostCenter>
 <wd:JobRequisitionID>REQ0011510</wd:JobRequisitionID>  -- This is the unique identifier for a job requisition
 <wd:JobPostingTitle>Head of Region</wd:JobPostingTitle>
 <wd:AdvertText>Annual salary: up to £60,000.00<p style="text-align:inherit"/>
@@ -75,10 +75,10 @@
 <p/>
 </wd:AdvertText>
 <wd:TimeType>Full time</wd:TimeType>
-<wd:locations_group> --  These are the additional locations, this listing can include any number and will include/duplicate the primary job posting location 
+<wd:locations_group> --  These are the additional locations, this listing can include any number and will include/duplicate the primary job posting location
 <wd:AdditionalLocationsID>L000073</wd:AdditionalLocationsID>
 <wd:AdditionalLocationName>Rotherham - Thames Street</wd:AdditionalLocationName>
-<wd:AdditionalLocationHierarchy>Yorkshire & Humber</wd:AdditionalLocationHierarchy>  -- This is what we use to classify the locations into regions
+<wd:AdditionalLocationHierarchy>Yorkshire &amp; Humber</wd:AdditionalLocationHierarchy>  -- This is what we use to classify the locations into regions
 <wd:AdditionalLocationAddressOne>Thames Street</wd:AdditionalLocationAddressOne>
 <wd:AdditionalLocationAddressCity>Rotherham</wd:AdditionalLocationAddressCity>
 <wd:AdditionalLocationAddressPostalCode>S60 1LU</wd:AdditionalLocationAddressPostalCode>
@@ -86,11 +86,11 @@
 <wd:locations_group>
 <wd:AdditionalLocationsID>LOCATION-3-642</wd:AdditionalLocationsID>
 <wd:AdditionalLocationName>Darlington</wd:AdditionalLocationName>
-<wd:AdditionalLocationHierarchy>Yorkshire & Humber</wd:AdditionalLocationHierarchy>  -- This is what we use to classify the locations into regions
+<wd:AdditionalLocationHierarchy>Yorkshire &amp; Humber</wd:AdditionalLocationHierarchy>  -- This is what we use to classify the locations into regions
 <wd:AdditionalLocationAddressOne>Morton House</wd:AdditionalLocationAddressOne>
 <wd:AdditionalLocationAddressTwo>Morton Road</wd:AdditionalLocationAddressTwo>
 <wd:AdditionalLocationAddressCity>Darlington</wd:AdditionalLocationAddressCity>
 <wd:AdditionalLocationAddressPostalCode>DL1 4PT</wd:AdditionalLocationAddressPostalCode>
 </wd:locations_group>
-<wd:ExternalApplyURL>https://mearsgroup.wd3.myworkdayjobs.com/External_Career_Site/job/Darlington/Regional-Head-of-Operations_REQ0011510-1/apply</wd:ExternalApplyURL> --  URL link to apply for the job, this is the live system, so please don't test apply to a job. 
+<wd:ExternalApplyURL>https://mearsgroup.wd3.myworkdayjobs.com/External_Career_Site/job/Darlington/Regional-Head-of-Operations_REQ0011510-1/apply</wd:ExternalApplyURL> --  URL link to apply for the job, this is the live system, so please don't test apply to a job.
 </wd:Report_Entry>
