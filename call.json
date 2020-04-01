@@ -1,0 +1,33 @@
+{
+    "fields": {
+        "_archived": false,
+        "_draft": true,
+        "gift-cards-available": "{Gift Cards Available?}",
+        "delivery-apps": "{Delivery Apps Bool}",
+        "postmates": "{Postmates}",
+        "uber-eats": "{Uber Eats}",
+        "door-dash": "{Door Dash}",
+        "gift-card-online": "{Gift Cards Online?}",
+        "seamless": "{Seamless}",
+        "website": "{Website}",
+        "menu-url": "{Menu}",
+        "gift-card-in-person": "{Gift Cards In-Person?}",
+        "grubhub": "{GrubHub}",
+        "name": "{Name}",
+        "location-2": "{Location Lookup}",
+        "hours": "{Hours ID}",
+        "order-options": ["{FINAL PICKUP OPTIONS}"],
+        "hours-of-operation-notes": "{Hours of Operation Notes - HTML}",
+        "full-address": "{Combined Address}",
+        "phone-number": "{Phone Number (1)}",
+        "order-by-email": "{Order via Email Address}",
+        "dm-on-instagram-bool": "{DM on Instagram Bool}",
+        "order-by-email-bool": "{Order by Email Bool}",
+        "direct-call-bool": "{Direct Call Bool}",
+        "gift-cards-via-email": "{Gift Cards via email?}",
+        "accepting-future-orders-bool": "{Accepting Future Orders}",
+        "website-bool": "{Website Bool}",
+        "special-instructions": "{Menu Notes}",
+        "accepting-future-orders-details": "{If Accepting Future Orders, provide details}"
+    }
+}
