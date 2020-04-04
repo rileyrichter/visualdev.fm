@@ -80,7 +80,7 @@
 .ms-container .ms-selectable li.ms-hover,
 .ms-container .ms-selection li.ms-hover{
   cursor: pointer;
-  color: #fff;
+  color: #333333;
   text-decoration: none;
   background-color: #f2f3f3;
 }
