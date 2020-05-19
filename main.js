@@ -1,4 +1,4 @@
-import { CountUp } from './dist/countUp.js';
+import { CountUp } from 'http://rileyrichter.github.io/visualdev.fm/countUp.min.js';
 
 window.onload = function () {
   var input = function (id) {
