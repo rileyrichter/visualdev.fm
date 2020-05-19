@@ -1,5 +1,5 @@
 import { CountUp } from 'https://rileyrichter.github.io/visualdev.fm/countUp.min.js';
-//From Demo
+//From Demo Make sure Secure
 window.onload = function () {
   var input = function (id) {
     return document.getElementById(id);
