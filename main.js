@@ -1,4 +1,4 @@
-import { CountUp } from 'http://rileyrichter.github.io/visualdev.fm/countUp.min.js';
+import { CountUp } from 'https://rileyrichter.github.io/visualdev.fm/countUp.min.js';
 //From Demo
 window.onload = function () {
   var input = function (id) {
