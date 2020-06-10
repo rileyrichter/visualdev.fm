@@ -96,6 +96,8 @@
         that.options.afterInit.call(this, this.$container);
       }
     },
+    
+    
 
     'generateLisFromOption' : function(option, index, $container){
       var that = this,
