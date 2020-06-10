@@ -44,6 +44,8 @@
         ms.find('option').each(function(){
           that.generateLisFromOption(this);
         });
+        
+        
 
         this.$selectionUl.find('.ms-optgroup-label').hide();
 
