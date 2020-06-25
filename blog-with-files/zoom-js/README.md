@@ -1,4 +1,7 @@
-# ZOOM.JS
+# Blog With Webflow
+These are files we are using with [The Visual Dev Blog with Webflow](https://blog-with.webflow.io/) Project. These aren't the creation of Visual Dev, but full credit to <a href="//twitter.com/fat">@fat</a>. Posting only the files we used or needed here for others to take care of. 
+
+## ZOOM.JS
 
 A simple jQuery plugin for image zooming; as seen on [Medium](https://medium.com/designing-medium/image-zoom-on-medium-24d146fc0c20).
 
